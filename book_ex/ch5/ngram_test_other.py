@@ -7,7 +7,6 @@ def ngram(s, num):
     return res
 
 
-
 def diff_ngram(sa, sb, num):
     a = ngram(sa, num)
     print(a)
