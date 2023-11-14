@@ -1,7 +1,7 @@
 from konlpy.tag import Komoran
 import numpy as np
-from numpy import dot
-from numpy.linalg import norm
+from numpy import dot   # 벡터 내적 계산
+from numpy.linalg import norm   # 벡터의 크기
 
 
 # 코사인 유사도 계산
