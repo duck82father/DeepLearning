@@ -13,7 +13,7 @@ $한편, AFC챔피언스리그 <E조:OG>에 속한 포항 역시 대회 8강 진
 5	포항	NNP	O
 6	역시	MAJ	O
 7	대회	NNG	O
-8	8강	NNG	O
+8	8강	NNG	O,
 9	진출	NNG	O
 9	이	JKS	O
 10	불투명	NNG	O
